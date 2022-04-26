@@ -1,2 +1,3 @@
-# aws-route53
-Sample code for creating route53 entries
+# AWS Route53 
+
+Sample code for CRUD operations on AWS route53 using AWS SDK APIs
